@@ -41,9 +41,7 @@ Mechatronics Engineering / Bachelor's Degree (2022-2025)
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a> 
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/matlab.png"/> </a>
-  <a href="https://www.keil.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/keil.png"/> </a>
-  <a href="https://www.altium.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/altium-designer.png"/> </a>
+
 </p>
 
 ### Connect with me:
